@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cinema>
+    <film id="F1">
+        <titre>Inception</titre>
+        <realisateur>Christopher Nolan</realisateur>
+        <annee>2010</annee>
+        <genre>Science-fiction</genre>
+        <note>8.8</note>
+    </film>
+
+    <film id="F2">
+        <titre>Interstellar</titre>
+        <realisateur>Christopher Nolan</realisateur>
+        <annee>2014</annee>
+        <genre>Science-fiction</genre>
+        <note>8.7</note>
+    </film>
+
+    <film id="F3">
+        <titre>Titanic</titre>
+        <realisateur>James Cameron</realisateur>
+        <annee>1997</annee>
+        <genre>Romance</genre>
+        <note>7.9</note>
+    </film>
+</cinema>
